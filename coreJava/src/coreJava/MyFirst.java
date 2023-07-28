@@ -1,4 +1,5 @@
 package coreJava;
+import java.lang.*;
 
 public class MyFirst {
 
@@ -6,5 +7,6 @@ public class MyFirst {
 		System.out.println("Hello World");
 
 	}
+
 
 }
