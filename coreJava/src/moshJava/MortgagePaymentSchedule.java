@@ -54,6 +54,8 @@ public class MortgagePaymentSchedule {
 				break;
 			} else {
 				System.out.println("Enter a value between " +min+" and "+ max);
+				System.out.println("Enter a value between " +min+" and "+ max);
+
 				}
 		}
 		return value;
