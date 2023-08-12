@@ -62,7 +62,7 @@ public class MortgagePaymentSchedule {
 	public static double calculateBalance( 
 		int principal,
 		float annualInterest,
-		byte years,
+		byte years,			
 		short numberOfPaymentsMade
 		) {
 			return MortgageCalculator.calculateBalance();
